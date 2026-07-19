@@ -1,6 +1,3 @@
-# enterprise-llmops-rag
-Enterprise LLMOps RAG Platform
-
 # Enterprise LLMOps RAG Platform
 
 ## Overview
@@ -33,6 +30,7 @@ Enterprise LLMOps RAG Platform
 
 ## License
 
+# Architecture Diagram (Mermaid)
 ```mermaid
 flowchart TD
 
