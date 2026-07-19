@@ -58,3 +58,6 @@ FastAPI --> Prometheus
 
 Prometheus --> Grafana
 ```
+
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/6ce188fd-f992-412b-9526-bf197bd70979" />
